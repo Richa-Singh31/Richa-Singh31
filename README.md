@@ -1,5 +1,6 @@
 ![logo](https://github.com/Richa-Singh31/Richa-Singh31/blob/main/Banner.png)
 <h3>About me</h3>
+
 - 🔭 I’m currently working on **APS Fault Detection ML project.**
 
 - 🌱 I’m currently learning **more about Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.**
